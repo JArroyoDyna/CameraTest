@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+x5sbgIE1FamfGYRgEeyzVzX5OG8xeYcJDeDSrlVwljPuAHTigzzCJhH67bXR6EEpggI4Y+nHmpWrNntpMZWqA==",
+  "dgSpecHash": "WsRPtlEcUQSPjjlYprYdD9Q3ZwsVj0vET2NVTSzYjrOWlmQMAcce9LIxLwF4T7flnON8POYZepEmcs5t5Cu6cA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ja104459\\Documents\\Visual Studio 2019\\projects\\For Jesús\\CameraSystem\\CameraSystem.csproj",
+  "projectFilePath": "C:\\Users\\ja104459\\Documents\\Visual Studio 2019\\projects\\camera\\CameraSystem\\CameraSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ja104459\\.nuget\\packages\\aforge\\2.2.5\\aforge.2.2.5.nupkg.sha512",
     "C:\\Users\\ja104459\\.nuget\\packages\\aforge.video\\2.2.5\\aforge.video.2.2.5.nupkg.sha512",

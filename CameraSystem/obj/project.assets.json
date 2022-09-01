@@ -884,11 +884,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ja104459\\Documents\\Visual Studio 2019\\projects\\For Jesús\\CameraSystem\\CameraSystem.csproj",
+      "projectUniqueName": "C:\\Users\\ja104459\\Documents\\Visual Studio 2019\\projects\\camera\\CameraSystem\\CameraSystem.csproj",
       "projectName": "CameraSystem",
-      "projectPath": "C:\\Users\\ja104459\\Documents\\Visual Studio 2019\\projects\\For Jesús\\CameraSystem\\CameraSystem.csproj",
+      "projectPath": "C:\\Users\\ja104459\\Documents\\Visual Studio 2019\\projects\\camera\\CameraSystem\\CameraSystem.csproj",
       "packagesPath": "C:\\Users\\ja104459\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ja104459\\Documents\\Visual Studio 2019\\projects\\For Jesús\\CameraSystem\\obj\\",
+      "outputPath": "C:\\Users\\ja104459\\Documents\\Visual Studio 2019\\projects\\camera\\CameraSystem\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
