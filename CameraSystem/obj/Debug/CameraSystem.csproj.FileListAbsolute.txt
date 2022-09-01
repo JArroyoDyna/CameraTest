@@ -1,0 +1,326 @@
+C:\Users\bm90281\Desktop\Admin Application\6-3-2020\CameraSystem\bin\Debug\CameraSystem.dll
+C:\Users\bm90281\Desktop\Admin Application\6-3-2020\CameraSystem\bin\Debug\CameraSystem.pdb
+C:\Users\bm90281\Desktop\Admin Application\6-3-2020\CameraSystem\obj\Debug\CameraSystem.csprojAssemblyReference.cache
+C:\Users\bm90281\Desktop\Admin Application\6-3-2020\CameraSystem\obj\Debug\CameraSystem.dll
+C:\Users\bm90281\Desktop\Admin Application\6-3-2020\CameraSystem\obj\Debug\CameraSystem.pdb
+C:\Users\bm90281\Desktop\BillPayMerg\6-26-2020\Pertech6100_Scanner\CameraSystem\bin\Debug\CameraSystem.dll
+C:\Users\bm90281\Desktop\BillPayMerg\6-26-2020\Pertech6100_Scanner\CameraSystem\bin\Debug\CameraSystem.pdb
+C:\Users\bm90281\Desktop\BillPayMerg\6-26-2020\Pertech6100_Scanner\CameraSystem\obj\Debug\CameraSystem.csprojAssemblyReference.cache
+C:\Users\bm90281\Desktop\BillPayMerg\6-26-2020\Pertech6100_Scanner\CameraSystem\obj\Debug\CameraSystem.dll
+C:\Users\bm90281\Desktop\BillPayMerg\6-26-2020\Pertech6100_Scanner\CameraSystem\obj\Debug\CameraSystem.pdb
+C:\Users\bm90281\Desktop\MERGE 6-30-2020\Pertech6100_Scanner\CameraSystem\bin\Debug\CameraSystem.dll
+C:\Users\bm90281\Desktop\MERGE 6-30-2020\Pertech6100_Scanner\CameraSystem\bin\Debug\CameraSystem.pdb
+C:\Users\bm90281\Desktop\MERGE 6-30-2020\Pertech6100_Scanner\CameraSystem\obj\Debug\CameraSystem.csprojAssemblyReference.cache
+C:\Users\bm90281\Desktop\MERGE 6-30-2020\Pertech6100_Scanner\CameraSystem\obj\Debug\CameraSystem.dll
+C:\Users\bm90281\Desktop\MERGE 6-30-2020\Pertech6100_Scanner\CameraSystem\obj\Debug\CameraSystem.pdb
+D:\DynaTouch\Ben\07062020\Pertech6100_Scanner\CameraSystem\bin\Debug\CameraSystem.dll
+D:\DynaTouch\Ben\07062020\Pertech6100_Scanner\CameraSystem\bin\Debug\CameraSystem.pdb
+D:\DynaTouch\Ben\07062020\Pertech6100_Scanner\CameraSystem\obj\Debug\CameraSystem.csprojAssemblyReference.cache
+D:\DynaTouch\Ben\07062020\Pertech6100_Scanner\CameraSystem\obj\Debug\CameraSystem.csproj.CoreCompileInputs.cache
+D:\DynaTouch\Ben\07062020\Pertech6100_Scanner\CameraSystem\obj\Debug\CameraSystem.dll
+D:\DynaTouch\Ben\07062020\Pertech6100_Scanner\CameraSystem\obj\Debug\CameraSystem.pdb
+C:\Projects\Ben\07072020\Pertech6100_Scanner\CameraSystem\obj\Debug\CameraSystem.csproj.CoreCompileInputs.cache
+C:\Projects\Ben\07072020\Pertech6100_Scanner\CameraSystem\obj\Debug\CameraSystem.csproj.AssemblyReference.cache
+C:\Projects\Ben\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\concrt140.dll
+C:\Projects\Ben\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\cvextern.dll
+C:\Projects\Ben\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\msvcp140.dll
+C:\Projects\Ben\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\msvcp140_1.dll
+C:\Projects\Ben\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\msvcp140_2.dll
+C:\Projects\Ben\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\msvcp140_codecvt_ids.dll
+C:\Projects\Ben\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\opencv_videoio_ffmpeg420_64.dll
+C:\Projects\Ben\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\vcruntime140.dll
+C:\Projects\Ben\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\vcruntime140_1.dll
+C:\Projects\Ben\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x86\concrt140.dll
+C:\Projects\Ben\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x86\cvextern.dll
+C:\Projects\Ben\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x86\msvcp140.dll
+C:\Projects\Ben\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x86\msvcp140_1.dll
+C:\Projects\Ben\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x86\msvcp140_2.dll
+C:\Projects\Ben\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x86\msvcp140_codecvt_ids.dll
+C:\Projects\Ben\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x86\opencv_videoio_ffmpeg420.dll
+C:\Projects\Ben\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x86\vcruntime140.dll
+C:\Projects\Ben\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\CameraSystem.dll
+C:\Projects\Ben\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\CameraSystem.pdb
+C:\Projects\Ben\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\Emgu.CV.World.NetStandard.dll
+C:\Projects\Ben\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\Emgu.CV.UI.dll
+C:\Projects\Ben\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\System.Drawing.Common.dll
+C:\Projects\Ben\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\ZedGraph.dll
+C:\Projects\Ben\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\de\ZedGraph.resources.dll
+C:\Projects\Ben\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\es\ZedGraph.resources.dll
+C:\Projects\Ben\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\fr\ZedGraph.resources.dll
+C:\Projects\Ben\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\hu\ZedGraph.resources.dll
+C:\Projects\Ben\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\it\ZedGraph.resources.dll
+C:\Projects\Ben\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\ja\ZedGraph.resources.dll
+C:\Projects\Ben\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\pt\ZedGraph.resources.dll
+C:\Projects\Ben\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\ru\ZedGraph.resources.dll
+C:\Projects\Ben\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\sk\ZedGraph.resources.dll
+C:\Projects\Ben\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\sv\ZedGraph.resources.dll
+C:\Projects\Ben\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\tr\ZedGraph.resources.dll
+C:\Projects\Ben\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Projects\Ben\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Projects\Ben\07072020\Pertech6100_Scanner\CameraSystem\obj\Debug\CameraSystem.csproj.CopyComplete
+C:\Projects\Ben\07072020\Pertech6100_Scanner\CameraSystem\obj\Debug\CameraSystem.dll
+C:\Projects\Ben\07072020\Pertech6100_Scanner\CameraSystem\obj\Debug\CameraSystem.pdb
+C:\GitRepos\BillPay\5-24-2021\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\concrt140.dll
+C:\GitRepos\BillPay\5-24-2021\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\cvextern.dll
+C:\GitRepos\BillPay\5-24-2021\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\msvcp140.dll
+C:\GitRepos\BillPay\5-24-2021\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\msvcp140_1.dll
+C:\GitRepos\BillPay\5-24-2021\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\msvcp140_2.dll
+C:\GitRepos\BillPay\5-24-2021\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\msvcp140_codecvt_ids.dll
+C:\GitRepos\BillPay\5-24-2021\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\opencv_videoio_ffmpeg420_64.dll
+C:\GitRepos\BillPay\5-24-2021\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\vcruntime140.dll
+C:\GitRepos\BillPay\5-24-2021\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\vcruntime140_1.dll
+C:\GitRepos\BillPay\5-24-2021\Pertech6100_Scanner\CameraSystem\bin\Debug\x86\concrt140.dll
+C:\GitRepos\BillPay\5-24-2021\Pertech6100_Scanner\CameraSystem\bin\Debug\x86\cvextern.dll
+C:\GitRepos\BillPay\5-24-2021\Pertech6100_Scanner\CameraSystem\bin\Debug\x86\msvcp140.dll
+C:\GitRepos\BillPay\5-24-2021\Pertech6100_Scanner\CameraSystem\bin\Debug\x86\msvcp140_1.dll
+C:\GitRepos\BillPay\5-24-2021\Pertech6100_Scanner\CameraSystem\bin\Debug\x86\msvcp140_2.dll
+C:\GitRepos\BillPay\5-24-2021\Pertech6100_Scanner\CameraSystem\bin\Debug\x86\msvcp140_codecvt_ids.dll
+C:\GitRepos\BillPay\5-24-2021\Pertech6100_Scanner\CameraSystem\bin\Debug\x86\opencv_videoio_ffmpeg420.dll
+C:\GitRepos\BillPay\5-24-2021\Pertech6100_Scanner\CameraSystem\bin\Debug\x86\vcruntime140.dll
+C:\GitRepos\BillPay\5-24-2021\Pertech6100_Scanner\CameraSystem\bin\Debug\CameraSystem.dll
+C:\GitRepos\BillPay\5-24-2021\Pertech6100_Scanner\CameraSystem\bin\Debug\CameraSystem.pdb
+C:\GitRepos\BillPay\5-24-2021\Pertech6100_Scanner\CameraSystem\bin\Debug\Emgu.CV.World.NetStandard.dll
+C:\GitRepos\BillPay\5-24-2021\Pertech6100_Scanner\CameraSystem\bin\Debug\Emgu.CV.UI.dll
+C:\GitRepos\BillPay\5-24-2021\Pertech6100_Scanner\CameraSystem\bin\Debug\System.Drawing.Common.dll
+C:\GitRepos\BillPay\5-24-2021\Pertech6100_Scanner\CameraSystem\bin\Debug\ZedGraph.dll
+C:\GitRepos\BillPay\5-24-2021\Pertech6100_Scanner\CameraSystem\bin\Debug\de\ZedGraph.resources.dll
+C:\GitRepos\BillPay\5-24-2021\Pertech6100_Scanner\CameraSystem\bin\Debug\es\ZedGraph.resources.dll
+C:\GitRepos\BillPay\5-24-2021\Pertech6100_Scanner\CameraSystem\bin\Debug\fr\ZedGraph.resources.dll
+C:\GitRepos\BillPay\5-24-2021\Pertech6100_Scanner\CameraSystem\bin\Debug\hu\ZedGraph.resources.dll
+C:\GitRepos\BillPay\5-24-2021\Pertech6100_Scanner\CameraSystem\bin\Debug\it\ZedGraph.resources.dll
+C:\GitRepos\BillPay\5-24-2021\Pertech6100_Scanner\CameraSystem\bin\Debug\ja\ZedGraph.resources.dll
+C:\GitRepos\BillPay\5-24-2021\Pertech6100_Scanner\CameraSystem\bin\Debug\pt\ZedGraph.resources.dll
+C:\GitRepos\BillPay\5-24-2021\Pertech6100_Scanner\CameraSystem\bin\Debug\ru\ZedGraph.resources.dll
+C:\GitRepos\BillPay\5-24-2021\Pertech6100_Scanner\CameraSystem\bin\Debug\sk\ZedGraph.resources.dll
+C:\GitRepos\BillPay\5-24-2021\Pertech6100_Scanner\CameraSystem\bin\Debug\sv\ZedGraph.resources.dll
+C:\GitRepos\BillPay\5-24-2021\Pertech6100_Scanner\CameraSystem\bin\Debug\tr\ZedGraph.resources.dll
+C:\GitRepos\BillPay\5-24-2021\Pertech6100_Scanner\CameraSystem\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\GitRepos\BillPay\5-24-2021\Pertech6100_Scanner\CameraSystem\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\GitRepos\BillPay\5-24-2021\Pertech6100_Scanner\CameraSystem\obj\Debug\CameraSystem.csproj.AssemblyReference.cache
+C:\GitRepos\BillPay\5-24-2021\Pertech6100_Scanner\CameraSystem\obj\Debug\CameraSystem.csproj.CoreCompileInputs.cache
+C:\GitRepos\BillPay\5-24-2021\Pertech6100_Scanner\CameraSystem\obj\Debug\CameraSystem.csproj.CopyComplete
+C:\GitRepos\BillPay\5-24-2021\Pertech6100_Scanner\CameraSystem\obj\Debug\CameraSystem.dll
+C:\GitRepos\BillPay\5-24-2021\Pertech6100_Scanner\CameraSystem\obj\Debug\CameraSystem.pdb
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\concrt140.dll
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\cvextern.dll
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\msvcp140.dll
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\msvcp140_1.dll
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\msvcp140_2.dll
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\msvcp140_codecvt_ids.dll
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\opencv_videoio_ffmpeg420_64.dll
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\vcruntime140.dll
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\vcruntime140_1.dll
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\bin\Debug\x86\concrt140.dll
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\bin\Debug\x86\cvextern.dll
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\bin\Debug\x86\msvcp140.dll
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\bin\Debug\x86\msvcp140_1.dll
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\bin\Debug\x86\msvcp140_2.dll
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\bin\Debug\x86\msvcp140_codecvt_ids.dll
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\bin\Debug\x86\opencv_videoio_ffmpeg420.dll
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\bin\Debug\x86\vcruntime140.dll
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\bin\Debug\CameraSystem.dll
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\bin\Debug\CameraSystem.pdb
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\bin\Debug\AForge.dll
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\bin\Debug\AForge.Video.dll
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\bin\Debug\AForge.Video.DirectShow.dll
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\bin\Debug\Emgu.CV.World.NetStandard.dll
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\bin\Debug\Emgu.CV.UI.dll
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\bin\Debug\System.Drawing.Common.dll
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\bin\Debug\ZedGraph.dll
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\bin\Debug\de\ZedGraph.resources.dll
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\bin\Debug\es\ZedGraph.resources.dll
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\bin\Debug\fr\ZedGraph.resources.dll
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\bin\Debug\hu\ZedGraph.resources.dll
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\bin\Debug\it\ZedGraph.resources.dll
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\bin\Debug\ja\ZedGraph.resources.dll
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\bin\Debug\pt\ZedGraph.resources.dll
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\bin\Debug\ru\ZedGraph.resources.dll
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\bin\Debug\sk\ZedGraph.resources.dll
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\bin\Debug\sv\ZedGraph.resources.dll
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\bin\Debug\tr\ZedGraph.resources.dll
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\bin\Debug\System.Runtime.WindowsRuntime.dll
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\bin\Debug\Windows.winmd
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\bin\Debug\System.Runtime.WindowsRuntime.xml
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\obj\Debug\CameraSystem.csproj.AssemblyReference.cache
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\obj\Debug\CameraSystem.csproj.CoreCompileInputs.cache
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\obj\Debug\CameraSystem.csproj.CopyComplete
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\obj\Debug\CameraSystem.dll
+C:\GitRepos\BillPayKiosk\Pertech6100_Scanner\CameraSystem\obj\Debug\CameraSystem.pdb
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\concrt140.dll
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\cvextern.dll
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\msvcp140.dll
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\msvcp140_1.dll
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\msvcp140_2.dll
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\msvcp140_codecvt_ids.dll
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\opencv_videoio_ffmpeg420_64.dll
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\vcruntime140.dll
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\vcruntime140_1.dll
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x86\concrt140.dll
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x86\cvextern.dll
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x86\msvcp140.dll
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x86\msvcp140_1.dll
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x86\msvcp140_2.dll
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x86\msvcp140_codecvt_ids.dll
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x86\opencv_videoio_ffmpeg420.dll
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x86\vcruntime140.dll
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\CameraSystem.dll
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\CameraSystem.pdb
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\AForge.dll
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\AForge.Video.dll
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\Emgu.CV.World.NetStandard.dll
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\Emgu.CV.UI.dll
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\System.Drawing.Common.dll
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\ZedGraph.dll
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\obj\Debug\CameraSystem.csproj.CoreCompileInputs.cache
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\obj\Debug\CameraSystem.csproj.CopyComplete
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\obj\Debug\CameraSystem.dll
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\obj\Debug\CameraSystem.pdb
+C:\Users\bm90281\Desktop\bpk_08222022\07072020\Pertech6100_Scanner\CameraSystem\obj\Debug\CameraSystem.csproj.AssemblyReference.cache
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\concrt140.dll
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\cvextern.dll
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\msvcp140.dll
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\msvcp140_1.dll
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\msvcp140_2.dll
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\msvcp140_codecvt_ids.dll
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\opencv_videoio_ffmpeg420_64.dll
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\vcruntime140.dll
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x64\vcruntime140_1.dll
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x86\concrt140.dll
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x86\cvextern.dll
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x86\msvcp140.dll
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x86\msvcp140_1.dll
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x86\msvcp140_2.dll
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x86\msvcp140_codecvt_ids.dll
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x86\opencv_videoio_ffmpeg420.dll
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\x86\vcruntime140.dll
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\CameraSystem.dll
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\CameraSystem.pdb
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\AForge.dll
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\AForge.Video.dll
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\Emgu.CV.World.NetStandard.dll
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\Emgu.CV.UI.dll
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\System.Drawing.Common.dll
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\ZedGraph.dll
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\obj\Debug\CameraSystem.csproj.CoreCompileInputs.cache
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\obj\Debug\CameraSystem.csproj.CopyComplete
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\obj\Debug\CameraSystem.dll
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\obj\Debug\CameraSystem.pdb
+C:\Users\bm90281\Desktop\bpk_08232022\07072020\Pertech6100_Scanner\CameraSystem\obj\Debug\CameraSystem.csproj.AssemblyReference.cache
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\bin\Debug\x64\concrt140.dll
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\bin\Debug\x64\cvextern.dll
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\bin\Debug\x64\msvcp140.dll
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\bin\Debug\x64\msvcp140_1.dll
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\bin\Debug\x64\msvcp140_2.dll
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\bin\Debug\x64\msvcp140_codecvt_ids.dll
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\bin\Debug\x64\opencv_videoio_ffmpeg420_64.dll
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\bin\Debug\x64\vcruntime140.dll
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\bin\Debug\x64\vcruntime140_1.dll
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\bin\Debug\x86\concrt140.dll
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\bin\Debug\x86\cvextern.dll
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\bin\Debug\x86\msvcp140.dll
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\bin\Debug\x86\msvcp140_1.dll
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\bin\Debug\x86\msvcp140_2.dll
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\bin\Debug\x86\msvcp140_codecvt_ids.dll
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\bin\Debug\x86\opencv_videoio_ffmpeg420.dll
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\bin\Debug\x86\vcruntime140.dll
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\bin\Debug\CameraSystem.dll
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\bin\Debug\CameraSystem.pdb
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\bin\Debug\AForge.dll
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\bin\Debug\AForge.Video.dll
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\bin\Debug\Emgu.CV.World.NetStandard.dll
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\bin\Debug\Emgu.CV.UI.dll
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\bin\Debug\System.Drawing.Common.dll
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\bin\Debug\ZedGraph.dll
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\obj\Debug\CameraSystem.csproj.CoreCompileInputs.cache
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\obj\Debug\CameraSystem.csproj.CopyComplete
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\obj\Debug\CameraSystem.dll
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\obj\Debug\CameraSystem.pdb
+C:\Users\bm90281\source\repos\For Jesús\CameraSystem\obj\Debug\CameraSystem.csproj.AssemblyReference.cache
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\bin\Debug\x64\concrt140.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\bin\Debug\x64\cvextern.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\bin\Debug\x64\msvcp140.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\bin\Debug\x64\msvcp140_1.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\bin\Debug\x64\msvcp140_2.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\bin\Debug\x64\msvcp140_codecvt_ids.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\bin\Debug\x64\opencv_videoio_ffmpeg420_64.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\bin\Debug\x64\vcruntime140.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\bin\Debug\x64\vcruntime140_1.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\bin\Debug\x86\concrt140.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\bin\Debug\x86\cvextern.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\bin\Debug\x86\msvcp140.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\bin\Debug\x86\msvcp140_1.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\bin\Debug\x86\msvcp140_2.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\bin\Debug\x86\msvcp140_codecvt_ids.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\bin\Debug\x86\opencv_videoio_ffmpeg420.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\bin\Debug\x86\vcruntime140.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\bin\Debug\CameraSystem.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\bin\Debug\CameraSystem.pdb
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\bin\Debug\AForge.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\bin\Debug\AForge.Video.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\bin\Debug\Emgu.CV.World.NetStandard.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\bin\Debug\System.Drawing.Common.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\bin\Debug\ZedGraph.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\obj\Debug\CameraSystem.csproj.AssemblyReference.cache
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\obj\Debug\CameraSystem.csproj.CoreCompileInputs.cache
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\obj\Debug\CameraSystem.csproj.CopyComplete
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\obj\Debug\CameraSystem.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraSystem\obj\Debug\CameraSystem.pdb

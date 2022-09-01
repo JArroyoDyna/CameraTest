@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraTestSpace", "CameraTestSpace.csproj", "{6E3BD5CE-7CAF-4E5B-86FC-8702C4C9D2FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraSystem", "..\CameraSystem\CameraSystem.csproj", "{9A8F9FA4-6268-4909-A198-E1CA9B1CD755}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E3BD5CE-7CAF-4E5B-86FC-8702C4C9D2FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E3BD5CE-7CAF-4E5B-86FC-8702C4C9D2FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E3BD5CE-7CAF-4E5B-86FC-8702C4C9D2FE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6E3BD5CE-7CAF-4E5B-86FC-8702C4C9D2FE}.Debug|x86.Build.0 = Debug|Any CPU
+		{6E3BD5CE-7CAF-4E5B-86FC-8702C4C9D2FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E3BD5CE-7CAF-4E5B-86FC-8702C4C9D2FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E3BD5CE-7CAF-4E5B-86FC-8702C4C9D2FE}.Release|x86.ActiveCfg = Release|Any CPU
+		{6E3BD5CE-7CAF-4E5B-86FC-8702C4C9D2FE}.Release|x86.Build.0 = Release|Any CPU
+		{9A8F9FA4-6268-4909-A198-E1CA9B1CD755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A8F9FA4-6268-4909-A198-E1CA9B1CD755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A8F9FA4-6268-4909-A198-E1CA9B1CD755}.Debug|x86.ActiveCfg = Debug|x86
+		{9A8F9FA4-6268-4909-A198-E1CA9B1CD755}.Debug|x86.Build.0 = Debug|x86
+		{9A8F9FA4-6268-4909-A198-E1CA9B1CD755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A8F9FA4-6268-4909-A198-E1CA9B1CD755}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A8F9FA4-6268-4909-A198-E1CA9B1CD755}.Release|x86.ActiveCfg = Release|x86
+		{9A8F9FA4-6268-4909-A198-E1CA9B1CD755}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C15F81F4-6DB1-4678-81DB-5B85BEDE5029}
+	EndGlobalSection
+EndGlobal
