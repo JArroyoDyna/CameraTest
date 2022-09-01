@@ -46,59 +46,59 @@
             <DockPanel VerticalAlignment="Center" Margin="10">
                 <Label DockPanel.Dock="Left" FontWeight="Bold" >Tilt:</Label>
                 <TextBox Text="{Binding ElementName=slTilt, Path=Value, UpdateSourceTrigger=PropertyChanged}" DockPanel.Dock="Right" TextAlignment="Right" Width="40" />
-                <Slider Maximum="600" TickPlacement="BottomRight" TickFrequency="1" IsSnapToTickEnabled="True" Name="slTilt" ValueChanged="slTilt_ValueChanged" Minimum="-600" Value="10" />
+                <Slider Maximum="50" TickPlacement="BottomRight" TickFrequency="1" IsSnapToTickEnabled="True" Name="slTilt" ValueChanged="slTilt_ValueChanged" Minimum="-50" Value="10" />
             </DockPanel>
             
             <DockPanel VerticalAlignment="Center" Margin="10">
                 <Label DockPanel.Dock="Left" FontWeight="Bold" >Roll:</Label>
                 <TextBox Text="{Binding ElementName=slRoll, Path=Value, UpdateSourceTrigger=PropertyChanged}" DockPanel.Dock="Right" TextAlignment="Right" Width="40" />
-                <Slider Maximum="600" TickPlacement="BottomRight" TickFrequency="1" IsSnapToTickEnabled="True" Name="slRoll" ValueChanged="slRoll_ValueChanged" Minimum="-600" Value="100" />
+                <Slider Maximum="100" TickPlacement="BottomRight" TickFrequency="1" IsSnapToTickEnabled="True" Name="slRoll" ValueChanged="slRoll_ValueChanged" Minimum="-100" Value="-1" />
             </DockPanel>
             
             <DockPanel VerticalAlignment="Center" Margin="10">
                 <Label DockPanel.Dock="Left" FontWeight="Bold" >Pan:</Label>
                 <TextBox Text="{Binding ElementName=slPan, Path=Value, UpdateSourceTrigger=PropertyChanged}" DockPanel.Dock="Right" TextAlignment="Right" Width="40" />
-                <Slider Maximum="600" TickPlacement="BottomRight" TickFrequency="1" IsSnapToTickEnabled="True" Name="slPan" ValueChanged="slPan_ValueChanged" Minimum="-600" Value="100" />
+                <Slider Maximum="30" TickPlacement="BottomRight" TickFrequency="1" IsSnapToTickEnabled="True" Name="slPan" ValueChanged="slPan_ValueChanged" Minimum="-1" Value="0" />
             </DockPanel>
 
             <DockPanel VerticalAlignment="Center" Margin="10">
                 <Label DockPanel.Dock="Left" FontWeight="Bold" >Backlight:</Label>
                 <TextBox Text="{Binding ElementName=slBacklight, Path=Value, UpdateSourceTrigger=PropertyChanged}" DockPanel.Dock="Right" TextAlignment="Right" Width="40" />
-                <Slider Maximum="600" TickPlacement="BottomRight" TickFrequency="1" IsSnapToTickEnabled="True" Name="slBacklight" ValueChanged="slBacklight_ValueChanged" Minimum="-600" Value="100" />
+                <Slider Maximum="50" TickPlacement="BottomRight" TickFrequency="1" IsSnapToTickEnabled="True" Name="slBacklight" ValueChanged="slBacklight_ValueChanged" Minimum="0" Value="10" />
             </DockPanel>
 
             <DockPanel VerticalAlignment="Center" Margin="10">
                 <Label DockPanel.Dock="Left" FontWeight="Bold" >Zoom:</Label>
                 <TextBox Text="{Binding ElementName=slZoom, Path=Value, UpdateSourceTrigger=PropertyChanged}" DockPanel.Dock="Right" TextAlignment="Right" Width="40" />
-                <Slider Maximum="600" TickPlacement="BottomRight" TickFrequency="1" IsSnapToTickEnabled="True" Name="slZoom" ValueChanged="slZoom_ValueChanged" Minimum="-600" Value="100" />
+                <Slider Maximum="150" TickPlacement="BottomRight" TickFrequency="1" IsSnapToTickEnabled="True" Name="slZoom" ValueChanged="slZoom_ValueChanged" Minimum="0" Value="10" />
             </DockPanel>
 
             <DockPanel VerticalAlignment="Center" Margin="10">
                 <Label DockPanel.Dock="Left" FontWeight="Bold" >Temperature:</Label>
                 <TextBox Text="{Binding ElementName=slTemperature, Path=Value, UpdateSourceTrigger=PropertyChanged}" DockPanel.Dock="Right" TextAlignment="Right" Width="40" />
-                <Slider Maximum="600" TickPlacement="BottomRight" TickFrequency="1" IsSnapToTickEnabled="True" Name="slTemperature" ValueChanged="slTemperature_ValueChanged" Minimum="-600" Value="100" />
+                <Slider Maximum="300" TickPlacement="BottomRight" TickFrequency="1" IsSnapToTickEnabled="True" Name="slTemperature" ValueChanged="slTemperature_ValueChanged" Minimum="0" Value="100" />
             </DockPanel>
 
             <DockPanel VerticalAlignment="Center" Margin="10">
                 <Label DockPanel.Dock="Left" FontWeight="Bold" >Sharpness:</Label>
                 <TextBox Text="{Binding ElementName=slSharpness, Path=Value, UpdateSourceTrigger=PropertyChanged}" DockPanel.Dock="Right" TextAlignment="Right" Width="40" />
-                <Slider Maximum="1000" TickPlacement="BottomRight" TickFrequency="1" IsSnapToTickEnabled="True" Name="slSharpness" ValueChanged="slSharpness_ValueChanged" Minimum="-1000" Value="0" />
+                <Slider Maximum="300" TickPlacement="BottomRight" TickFrequency="1" IsSnapToTickEnabled="True" Name="slSharpness" ValueChanged="slSharpness_ValueChanged" Minimum="0" Value="10" />
             </DockPanel>
             <DockPanel VerticalAlignment="Center" Margin="10">
                 <Label DockPanel.Dock="Left" FontWeight="Bold" >Saturation:</Label>
                 <TextBox Text="{Binding ElementName=slSaturation, Path=Value, UpdateSourceTrigger=PropertyChanged}" DockPanel.Dock="Right" TextAlignment="Right" Width="40" />
-                <Slider Maximum="1000" TickPlacement="BottomRight" TickFrequency="1" IsSnapToTickEnabled="True" Name="slSaturation" ValueChanged="slSaturation_ValueChanged" Minimum="-1000" Value="100" />
+                <Slider Maximum="600" TickPlacement="BottomRight" TickFrequency="1" IsSnapToTickEnabled="True" Name="slSaturation" ValueChanged="slSaturation_ValueChanged" Minimum="0" Value="75" />
             </DockPanel>
 
 
             <DockPanel VerticalAlignment="Center" Margin="10">
                 <Label DockPanel.Dock="Left" FontWeight="Bold" >Hue:</Label>
                 <TextBox Text="{Binding ElementName=slHue, Path=Value, UpdateSourceTrigger=PropertyChanged}" DockPanel.Dock="Right" TextAlignment="Right" Width="40" />
-                <Slider Maximum="1000" TickPlacement="BottomRight" TickFrequency="1" IsSnapToTickEnabled="True" Name="slHue" ValueChanged="slHue_ValueChanged" Minimum="-1000" Value="100" />
+                <Slider Maximum="500" TickPlacement="BottomRight" TickFrequency="1" IsSnapToTickEnabled="True" Name="slHue" ValueChanged="slHue_ValueChanged" Minimum="-500" Value="100" />
             </DockPanel>
         
         </StackPanel>
 
-        <Image x:Name="Display" Height="450" Margin="436,192,-8,161"/>
+        <Image x:Name="Display" Height="450" Margin="436,192,500,161.2"/>
     </Grid>
 </Window>
