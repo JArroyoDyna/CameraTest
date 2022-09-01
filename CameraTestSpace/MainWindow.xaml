@@ -5,10 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CameraTestSpace"
         mc:Ignorable="d" 
-        Title="MainWindow" Height="834.454" Width="1220" Initialized="Window_Initialized">
+        Title="MainWindow" Height="772.854" Width="1220" Initialized="Window_Initialized">
 
 
-    <Grid Margin="0,0,-433,0">
+    <Grid Margin="0,0,-433.4,18.4">
         <StackPanel  
                     Width="431"
                     Orientation="Vertical"
@@ -23,7 +23,7 @@
             </DockPanel>
             <DockPanel VerticalAlignment="Center" Margin="10">
                 <Label DockPanel.Dock="Left" FontWeight="Bold" >Contrast:</Label>
-                <TextBox Text="{Binding ElementName=slContrast, Path=Value, UpdateSourceTrigger=PropertyChanged}" DockPanel.Dock="Right" TextAlignment="Right" Width="40" />
+                <TextBox Text="{Binding ElementName=slContrast, Path=Value, UpdateSourceTrigger=PropertyChanged}" DockPanel.Dock="Right" TextAlignment="Right" Width="40" Height="25" />
                 <Slider Maximum="255" TickPlacement="BottomRight" TickFrequency="1" IsSnapToTickEnabled="True" Name="slContrast" ValueChanged="slContrast_ValueChanged" Minimum="0" Value="10" />
             </DockPanel>
             <!--// FocalLength //-->
@@ -105,11 +105,15 @@
             <DockPanel VerticalAlignment="Center" Margin="10">
                 <Label DockPanel.Dock="Left" FontWeight="Bold" >Exposure:</Label>
                 <TextBox Text="{Binding ElementName=slExposure, Path=Value, UpdateSourceTrigger=PropertyChanged}" DockPanel.Dock="Right" TextAlignment="Right" Width="40" />
-                <Slider Maximum="500" TickPlacement="BottomRight" TickFrequency="1" IsSnapToTickEnabled="True" Name="slExposure" ValueChanged="slExposure_ValueChanged" Minimum="-500" Value="100" />
+                <Slider Maximum="5" TickPlacement="BottomRight" TickFrequency="1" IsSnapToTickEnabled="True" Name="slExposure" ValueChanged="slExposure_ValueChanged" Minimum="-15" Value="0" />
             </DockPanel>
 
+            <Button Name="btn3" 
+        Click="txtResetOnClick" ClickMode="Release" Margin="304,0,13.2,0" Height="29">
+                Reset
+            </Button>
         </StackPanel>
 
-        <Image x:Name="Display" Height="450" Margin="436,192,500,161.2"/>
+        <Image x:Name="Display" Height="450" Margin="431,10,505.6,344.8"/>
     </Grid>
 </Window>

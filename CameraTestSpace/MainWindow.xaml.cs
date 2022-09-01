@@ -148,5 +148,10 @@ namespace CameraTestSpace
                 wasConfigReaded = true;
             }
         }
+
+        private void txtResetOnClick(object sender, RoutedEventArgs e)
+        {
+            webCam.RestoreSettingsValues();
+        }
     }
 }

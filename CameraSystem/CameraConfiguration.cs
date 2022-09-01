@@ -2,7 +2,7 @@
 using System.Configuration;
 using System.Reflection;
 
-namespace CameraSystem
+namespace DynaTouch.CameraSystem
 {
     public class CameraConfiguration
     {
