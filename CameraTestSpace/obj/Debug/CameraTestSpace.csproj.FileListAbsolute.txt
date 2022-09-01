@@ -142,12 +142,10 @@ C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraTestSpace\b
 C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraTestSpace\bin\Debug\zh-tw\ZedGraph.resources.dll
 C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraTestSpace\obj\Debug\CameraTestSpace.csproj.AssemblyReference.cache
 C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraTestSpace\obj\Debug\MainWindow.g.cs
-C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraTestSpace\obj\Debug\SettingsWindow.g.cs
 C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraTestSpace\obj\Debug\App.g.cs
 C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraTestSpace\obj\Debug\CameraTestSpace_MarkupCompile.cache
 C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraTestSpace\obj\Debug\CameraTestSpace_MarkupCompile.lref
 C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraTestSpace\obj\Debug\MainWindow.baml
-C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraTestSpace\obj\Debug\SettingsWindow.baml
 C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraTestSpace\obj\Debug\CameraTestSpace.g.resources
 C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraTestSpace\obj\Debug\CameraTestSpace.Properties.Resources.resources
 C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraTestSpace\obj\Debug\CameraTestSpace.csproj.GenerateResource.cache

@@ -52,6 +52,10 @@
               "target": "Package",
               "version": "[4.2.0.3662, )"
             },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "System.Drawing.Common": {
               "target": "Package",
               "version": "[6.0.0, )"

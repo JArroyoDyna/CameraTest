@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WsRPtlEcUQSPjjlYprYdD9Q3ZwsVj0vET2NVTSzYjrOWlmQMAcce9LIxLwF4T7flnON8POYZepEmcs5t5Cu6cA==",
+  "dgSpecHash": "ZEpr7Sqrk2EtLi+5TkJRwT852fjh2dBVBM1+YMx5JwrGvZ4WWOAa3wT8LaGTqRhHE8uV4Hx2kmNzo0Q+zJ32gg==",
   "success": true,
   "projectFilePath": "C:\\Users\\ja104459\\Documents\\Visual Studio 2019\\projects\\camera\\CameraSystem\\CameraSystem.csproj",
   "expectedPackageFiles": [
@@ -9,9 +9,13 @@
     "C:\\Users\\ja104459\\.nuget\\packages\\aforge.video.directshow\\2.2.5\\aforge.video.directshow.2.2.5.nupkg.sha512",
     "C:\\Users\\ja104459\\.nuget\\packages\\emgu.cv\\4.2.0.3662\\emgu.cv.4.2.0.3662.nupkg.sha512",
     "C:\\Users\\ja104459\\.nuget\\packages\\emgu.cv.runtime.windows\\4.2.0.3662\\emgu.cv.runtime.windows.4.2.0.3662.nupkg.sha512",
+    "C:\\Users\\ja104459\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
     "C:\\Users\\ja104459\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
     "C:\\Users\\ja104459\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\ja104459\\.nuget\\packages\\system.runtime\\4.3.1\\system.runtime.4.3.1.nupkg.sha512",
+    "C:\\Users\\ja104459\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\ja104459\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ja104459\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
     "C:\\Users\\ja104459\\.nuget\\packages\\zedgraph\\5.1.7\\zedgraph.5.1.7.nupkg.sha512"
   ],
   "logs": []

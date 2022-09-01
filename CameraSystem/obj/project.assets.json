@@ -60,6 +60,27 @@
           "build/Emgu.CV.runtime.windows.targets": {}
         }
       },
+      "System.Configuration.ConfigurationManager/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Security.Permissions": "6.0.0"
+        },
+        "frameworkAssemblies": [
+          "System.Configuration"
+        ],
+        "compile": {
+          "lib/net461/System.Configuration.ConfigurationManager.dll": {}
+        },
+        "runtime": {
+          "lib/net461/System.Configuration.ConfigurationManager.dll": {}
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net461/System.Configuration.ConfigurationManager.dll": {
+            "assetType": "runtime",
+            "rid": "win"
+          }
+        }
+      },
       "System.Drawing.Common/6.0.0": {
         "type": "package",
         "compile": {
@@ -95,6 +116,70 @@
         },
         "runtime": {
           "lib/net462/System.Runtime.dll": {}
+        }
+      },
+      "System.Security.AccessControl/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Security.Principal.Windows": "5.0.0"
+        },
+        "compile": {
+          "lib/net461/System.Security.AccessControl.dll": {}
+        },
+        "runtime": {
+          "lib/net461/System.Security.AccessControl.dll": {}
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net461/System.Security.AccessControl.dll": {
+            "assetType": "runtime",
+            "rid": "win"
+          }
+        }
+      },
+      "System.Security.Permissions/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Security.AccessControl": "6.0.0"
+        },
+        "frameworkAssemblies": [
+          "System.Configuration",
+          "System.Data.OracleClient",
+          "System.Net",
+          "System.Security",
+          "System.ServiceProcess",
+          "System.Transactions",
+          "WindowsBase"
+        ],
+        "compile": {
+          "lib/net461/System.Security.Permissions.dll": {}
+        },
+        "runtime": {
+          "lib/net461/System.Security.Permissions.dll": {}
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net461/System.Security.Permissions.dll": {
+            "assetType": "runtime",
+            "rid": "win"
+          }
+        }
+      },
+      "System.Security.Principal.Windows/5.0.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net461/System.Security.Principal.Windows.dll": {}
+        },
+        "runtime": {
+          "lib/net461/System.Security.Principal.Windows.dll": {}
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net461/System.Security.Principal.Windows.dll": {
+            "assetType": "runtime",
+            "rid": "win"
+          }
         }
       },
       "ZedGraph/5.1.7": {
@@ -207,6 +292,21 @@
           "build/Emgu.CV.runtime.windows.targets": {}
         }
       },
+      "System.Configuration.ConfigurationManager/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Security.Permissions": "6.0.0"
+        },
+        "frameworkAssemblies": [
+          "System.Configuration"
+        ],
+        "compile": {
+          "lib/net461/System.Configuration.ConfigurationManager.dll": {}
+        },
+        "runtime": {
+          "runtimes/win/lib/net461/System.Configuration.ConfigurationManager.dll": {}
+        }
+      },
       "System.Drawing.Common/6.0.0": {
         "type": "package",
         "compile": {
@@ -242,6 +342,52 @@
         },
         "runtime": {
           "lib/net462/System.Runtime.dll": {}
+        }
+      },
+      "System.Security.AccessControl/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Security.Principal.Windows": "5.0.0"
+        },
+        "compile": {
+          "lib/net461/System.Security.AccessControl.dll": {}
+        },
+        "runtime": {
+          "runtimes/win/lib/net461/System.Security.AccessControl.dll": {}
+        }
+      },
+      "System.Security.Permissions/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Security.AccessControl": "6.0.0"
+        },
+        "frameworkAssemblies": [
+          "System.Configuration",
+          "System.Data.OracleClient",
+          "System.Net",
+          "System.Security",
+          "System.ServiceProcess",
+          "System.Transactions",
+          "WindowsBase"
+        ],
+        "compile": {
+          "lib/net461/System.Security.Permissions.dll": {}
+        },
+        "runtime": {
+          "runtimes/win/lib/net461/System.Security.Permissions.dll": {}
+        }
+      },
+      "System.Security.Principal.Windows/5.0.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net461/System.Security.Principal.Windows.dll": {}
+        },
+        "runtime": {
+          "runtimes/win/lib/net461/System.Security.Principal.Windows.dll": {}
         }
       },
       "ZedGraph/5.1.7": {
@@ -354,6 +500,21 @@
           "build/Emgu.CV.runtime.windows.targets": {}
         }
       },
+      "System.Configuration.ConfigurationManager/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Security.Permissions": "6.0.0"
+        },
+        "frameworkAssemblies": [
+          "System.Configuration"
+        ],
+        "compile": {
+          "lib/net461/System.Configuration.ConfigurationManager.dll": {}
+        },
+        "runtime": {
+          "lib/net461/System.Configuration.ConfigurationManager.dll": {}
+        }
+      },
       "System.Drawing.Common/6.0.0": {
         "type": "package",
         "compile": {
@@ -389,6 +550,52 @@
         },
         "runtime": {
           "lib/net462/System.Runtime.dll": {}
+        }
+      },
+      "System.Security.AccessControl/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Security.Principal.Windows": "5.0.0"
+        },
+        "compile": {
+          "lib/net461/System.Security.AccessControl.dll": {}
+        },
+        "runtime": {
+          "lib/net461/System.Security.AccessControl.dll": {}
+        }
+      },
+      "System.Security.Permissions/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Security.AccessControl": "6.0.0"
+        },
+        "frameworkAssemblies": [
+          "System.Configuration",
+          "System.Data.OracleClient",
+          "System.Net",
+          "System.Security",
+          "System.ServiceProcess",
+          "System.Transactions",
+          "WindowsBase"
+        ],
+        "compile": {
+          "lib/net461/System.Security.Permissions.dll": {}
+        },
+        "runtime": {
+          "lib/net461/System.Security.Permissions.dll": {}
+        }
+      },
+      "System.Security.Principal.Windows/5.0.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net461/System.Security.Principal.Windows.dll": {}
+        },
+        "runtime": {
+          "lib/net461/System.Security.Principal.Windows.dll": {}
         }
       },
       "ZedGraph/5.1.7": {
@@ -501,6 +708,21 @@
           "build/Emgu.CV.runtime.windows.targets": {}
         }
       },
+      "System.Configuration.ConfigurationManager/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Security.Permissions": "6.0.0"
+        },
+        "frameworkAssemblies": [
+          "System.Configuration"
+        ],
+        "compile": {
+          "lib/net461/System.Configuration.ConfigurationManager.dll": {}
+        },
+        "runtime": {
+          "lib/net461/System.Configuration.ConfigurationManager.dll": {}
+        }
+      },
       "System.Drawing.Common/6.0.0": {
         "type": "package",
         "compile": {
@@ -536,6 +758,52 @@
         },
         "runtime": {
           "lib/net462/System.Runtime.dll": {}
+        }
+      },
+      "System.Security.AccessControl/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Security.Principal.Windows": "5.0.0"
+        },
+        "compile": {
+          "lib/net461/System.Security.AccessControl.dll": {}
+        },
+        "runtime": {
+          "lib/net461/System.Security.AccessControl.dll": {}
+        }
+      },
+      "System.Security.Permissions/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Security.AccessControl": "6.0.0"
+        },
+        "frameworkAssemblies": [
+          "System.Configuration",
+          "System.Data.OracleClient",
+          "System.Net",
+          "System.Security",
+          "System.ServiceProcess",
+          "System.Transactions",
+          "WindowsBase"
+        ],
+        "compile": {
+          "lib/net461/System.Security.Permissions.dll": {}
+        },
+        "runtime": {
+          "lib/net461/System.Security.Permissions.dll": {}
+        }
+      },
+      "System.Security.Principal.Windows/5.0.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net461/System.Security.Principal.Windows.dll": {}
+        },
+        "runtime": {
+          "lib/net461/System.Security.Principal.Windows.dll": {}
         }
       },
       "ZedGraph/5.1.7": {
@@ -676,6 +944,31 @@
         "icon.png",
         "lib/net461/Emgu.CV.UI.dll",
         "lib/net461/Emgu.CV.UI.xml"
+      ]
+    },
+    "System.Configuration.ConfigurationManager/6.0.0": {
+      "sha512": "7T+m0kDSlIPTHIkPMIu6m6tV6qsMqJpvQWW2jIc2qi7sn40qxFo0q+7mEQAhMPXZHMKnWrnv47ntGlM/ejvw3g==",
+      "type": "package",
+      "path": "system.configuration.configurationmanager/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/netcoreapp2.0/System.Configuration.ConfigurationManager.targets",
+        "buildTransitive/netcoreapp3.1/_._",
+        "lib/net461/System.Configuration.ConfigurationManager.dll",
+        "lib/net461/System.Configuration.ConfigurationManager.xml",
+        "lib/net6.0/System.Configuration.ConfigurationManager.dll",
+        "lib/net6.0/System.Configuration.ConfigurationManager.xml",
+        "lib/netstandard2.0/System.Configuration.ConfigurationManager.dll",
+        "lib/netstandard2.0/System.Configuration.ConfigurationManager.xml",
+        "runtimes/win/lib/net461/System.Configuration.ConfigurationManager.dll",
+        "runtimes/win/lib/net461/System.Configuration.ConfigurationManager.xml",
+        "system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+        "system.configuration.configurationmanager.nuspec",
+        "useSharedDesignerContext.txt"
       ]
     },
     "System.Drawing.Common/6.0.0": {
@@ -838,6 +1131,119 @@
         "system.runtime.nuspec"
       ]
     },
+    "System.Security.AccessControl/6.0.0": {
+      "sha512": "AUADIc0LIEQe7MzC+I0cl0rAT8RrTAKFHl53yHjEUzNVIaUlhFY11vc2ebiVJzVBuOzun6F7FBA+8KAbGTTedQ==",
+      "type": "package",
+      "path": "system.security.accesscontrol/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/netcoreapp2.0/System.Security.AccessControl.targets",
+        "buildTransitive/netcoreapp3.1/_._",
+        "lib/net461/System.Security.AccessControl.dll",
+        "lib/net461/System.Security.AccessControl.xml",
+        "lib/net6.0/System.Security.AccessControl.dll",
+        "lib/net6.0/System.Security.AccessControl.xml",
+        "lib/netstandard2.0/System.Security.AccessControl.dll",
+        "lib/netstandard2.0/System.Security.AccessControl.xml",
+        "runtimes/win/lib/net461/System.Security.AccessControl.dll",
+        "runtimes/win/lib/net461/System.Security.AccessControl.xml",
+        "runtimes/win/lib/net6.0/System.Security.AccessControl.dll",
+        "runtimes/win/lib/net6.0/System.Security.AccessControl.xml",
+        "runtimes/win/lib/netstandard2.0/System.Security.AccessControl.dll",
+        "runtimes/win/lib/netstandard2.0/System.Security.AccessControl.xml",
+        "system.security.accesscontrol.6.0.0.nupkg.sha512",
+        "system.security.accesscontrol.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "System.Security.Permissions/6.0.0": {
+      "sha512": "T/uuc7AklkDoxmcJ7LGkyX1CcSviZuLCa4jg3PekfJ7SU0niF0IVTXwUiNVP9DSpzou2PpxJ+eNY2IfDM90ZCg==",
+      "type": "package",
+      "path": "system.security.permissions/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/netcoreapp2.0/System.Security.Permissions.targets",
+        "buildTransitive/netcoreapp3.1/_._",
+        "lib/net461/System.Security.Permissions.dll",
+        "lib/net461/System.Security.Permissions.xml",
+        "lib/net5.0/System.Security.Permissions.dll",
+        "lib/net5.0/System.Security.Permissions.xml",
+        "lib/net6.0/System.Security.Permissions.dll",
+        "lib/net6.0/System.Security.Permissions.xml",
+        "lib/netcoreapp3.1/System.Security.Permissions.dll",
+        "lib/netcoreapp3.1/System.Security.Permissions.xml",
+        "lib/netstandard2.0/System.Security.Permissions.dll",
+        "lib/netstandard2.0/System.Security.Permissions.xml",
+        "runtimes/win/lib/net461/System.Security.Permissions.dll",
+        "runtimes/win/lib/net461/System.Security.Permissions.xml",
+        "system.security.permissions.6.0.0.nupkg.sha512",
+        "system.security.permissions.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "System.Security.Principal.Windows/5.0.0": {
+      "sha512": "t0MGLukB5WAVU9bO3MGzvlGnyJPgUlcwerXn1kzBRjwLKixT96XV0Uza41W49gVd8zEMFu9vQEFlv0IOrytICA==",
+      "type": "package",
+      "path": "system.security.principal.windows/5.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net46/System.Security.Principal.Windows.dll",
+        "lib/net461/System.Security.Principal.Windows.dll",
+        "lib/net461/System.Security.Principal.Windows.xml",
+        "lib/netstandard1.3/System.Security.Principal.Windows.dll",
+        "lib/netstandard2.0/System.Security.Principal.Windows.dll",
+        "lib/netstandard2.0/System.Security.Principal.Windows.xml",
+        "lib/uap10.0.16299/_._",
+        "ref/net46/System.Security.Principal.Windows.dll",
+        "ref/net461/System.Security.Principal.Windows.dll",
+        "ref/net461/System.Security.Principal.Windows.xml",
+        "ref/netcoreapp3.0/System.Security.Principal.Windows.dll",
+        "ref/netcoreapp3.0/System.Security.Principal.Windows.xml",
+        "ref/netstandard1.3/System.Security.Principal.Windows.dll",
+        "ref/netstandard1.3/System.Security.Principal.Windows.xml",
+        "ref/netstandard1.3/de/System.Security.Principal.Windows.xml",
+        "ref/netstandard1.3/es/System.Security.Principal.Windows.xml",
+        "ref/netstandard1.3/fr/System.Security.Principal.Windows.xml",
+        "ref/netstandard1.3/it/System.Security.Principal.Windows.xml",
+        "ref/netstandard1.3/ja/System.Security.Principal.Windows.xml",
+        "ref/netstandard1.3/ko/System.Security.Principal.Windows.xml",
+        "ref/netstandard1.3/ru/System.Security.Principal.Windows.xml",
+        "ref/netstandard1.3/zh-hans/System.Security.Principal.Windows.xml",
+        "ref/netstandard1.3/zh-hant/System.Security.Principal.Windows.xml",
+        "ref/netstandard2.0/System.Security.Principal.Windows.dll",
+        "ref/netstandard2.0/System.Security.Principal.Windows.xml",
+        "ref/uap10.0.16299/_._",
+        "runtimes/unix/lib/netcoreapp2.0/System.Security.Principal.Windows.dll",
+        "runtimes/unix/lib/netcoreapp2.0/System.Security.Principal.Windows.xml",
+        "runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll",
+        "runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.xml",
+        "runtimes/win/lib/net46/System.Security.Principal.Windows.dll",
+        "runtimes/win/lib/net461/System.Security.Principal.Windows.dll",
+        "runtimes/win/lib/net461/System.Security.Principal.Windows.xml",
+        "runtimes/win/lib/netcoreapp2.0/System.Security.Principal.Windows.dll",
+        "runtimes/win/lib/netcoreapp2.0/System.Security.Principal.Windows.xml",
+        "runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll",
+        "runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.xml",
+        "runtimes/win/lib/netstandard1.3/System.Security.Principal.Windows.dll",
+        "runtimes/win/lib/uap10.0.16299/_._",
+        "system.security.principal.windows.5.0.0.nupkg.sha512",
+        "system.security.principal.windows.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
     "ZedGraph/5.1.7": {
       "sha512": "TcZaInxUjYMJDWIaYvs/CgpssfVJQMqiry8GPP70klyheP4tYSQXFWi5HYwJvqao+epeUu3bsk3yDb3Nf/hVWw==",
       "type": "package",
@@ -871,6 +1277,7 @@
       "AForge.Video.DirectShow >= 2.2.5",
       "Emgu.CV >= 4.2.0.3662",
       "Emgu.CV.runtime.windows >= 4.2.0.3662",
+      "System.Configuration.ConfigurationManager >= 6.0.0",
       "System.Drawing.Common >= 6.0.0",
       "System.Drawing.Primitives >= 4.3.0",
       "System.Runtime >= 4.3.1"
@@ -928,6 +1335,10 @@
           "Emgu.CV.runtime.windows": {
             "target": "Package",
             "version": "[4.2.0.3662, )"
+          },
+          "System.Configuration.ConfigurationManager": {
+            "target": "Package",
+            "version": "[6.0.0, )"
           },
           "System.Drawing.Common": {
             "target": "Package",

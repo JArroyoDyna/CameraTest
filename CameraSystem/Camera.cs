@@ -1,11 +1,13 @@
-﻿using Emgu.CV;
+﻿using CameraSystem;
+using Emgu.CV;
 using Emgu.CV.Face;
 using Emgu.CV.Structure;
 using System;
 using System.Collections.Generic;
+ 
 using System.Drawing;
 using System.IO;
-using System.Linq;
+using System.Linq; 
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Threading;
@@ -13,9 +15,7 @@ using System.Windows.Threading;
 namespace DynaTouch.CameraSystem
 {
     public class Camera
-    {
-
-
+    { 
         public EigenFaceRecognizer faceRecogntion { get; set; }
         public CascadeClassifier faceDetection { get; set; }
         public CascadeClassifier eyeDetection { get; set; }
@@ -47,9 +47,7 @@ namespace DynaTouch.CameraSystem
         public double openniDepthGeneratorFocalLength = -1;
         public double focus = -1;
 
-
-        public double brightness = 25;
-        public double Backlight = 3;
+        public double brightness = 25; 
         public double contrast = 0;
         public double gamma = 100;
         public double tilt = -1;
@@ -92,6 +90,8 @@ namespace DynaTouch.CameraSystem
         public bool facialRec = false;
         public Guid userGuid;
 
+        
+
         //public int focalLength;
 
         public Camera()
@@ -104,7 +104,7 @@ namespace DynaTouch.CameraSystem
             ID = new List<int>();
              
             webCam = new VideoCapture(0, VideoCapture.API.DShow);// creation of a VideoCapture Object
-
+    
             SetSettingsValues();
 
             if (File.Exists("FacialData/PredictionLog.txt"))
@@ -132,7 +132,7 @@ namespace DynaTouch.CameraSystem
             #region CapturePropertiesForBaseCamera
 
 
-            SetSettingsValues();
+
 
             //SetCameraSize(450, 800);
 
@@ -181,8 +181,10 @@ namespace DynaTouch.CameraSystem
 
         }
 
-        private void SetSettingsValues()
+        public void SetSettingsValues()
         {
+
+
             webCam.SetCaptureProperty(Emgu.CV.CvEnum.CapProp.Focus, focus);// Sets the Focus property to the Value to the value passed to it
             webCam.SetCaptureProperty(Emgu.CV.CvEnum.CapProp.Brightness, brightness); // Sets the Brightness property to the value passed to it
             webCam.SetCaptureProperty(Emgu.CV.CvEnum.CapProp.Contrast, contrast);
@@ -197,12 +199,14 @@ namespace DynaTouch.CameraSystem
             webCam.SetCaptureProperty(Emgu.CV.CvEnum.CapProp.Hue, hue);
             webCam.SetCaptureProperty(Emgu.CV.CvEnum.CapProp.Gain, gain);
             webCam.SetCaptureProperty(Emgu.CV.CvEnum.CapProp.Exposure, exposure);
+
+
         }
 
         public void WebCamFace_ImageGrabbed(object sender, EventArgs e)
         {
             //webCam.SetCaptureProperty(Emgu.CV.CvEnum.CapProp.Focus, 900);
-            SetSettingsValues();
+ 
             webCam.Retrieve(frameCapture);
 
             if (frameCapture != null)
@@ -931,13 +935,30 @@ namespace DynaTouch.CameraSystem
             faceRecognitionAttempts = 0;
 
         }
-
+        
         public async Task Stop()
         {
 
             await VideoStop();
             clearFaces();
             displayImage = null;
-        }
+        } 
+        ~Camera()
+        {
+            CameraConfiguration.setConfigValue("Brightness", brightness.ToString());
+            CameraConfiguration.setConfigValue("Contrast", contrast.ToString());
+            CameraConfiguration.setConfigValue("Gamma", gamma.ToString());
+            CameraConfiguration.setConfigValue("Tilt", tilt.ToString());
+            CameraConfiguration.setConfigValue("Roll", roll.ToString());
+            CameraConfiguration.setConfigValue("Focus", focus.ToString());
+            CameraConfiguration.setConfigValue("Pan", pan.ToString());
+            CameraConfiguration.setConfigValue("Backlight", backlight.ToString());
+            CameraConfiguration.setConfigValue("Zoom", zoom.ToString());
+            CameraConfiguration.setConfigValue("Sharpness", sharpness.ToString());
+            CameraConfiguration.setConfigValue("Saturation", saturation.ToString());
+            CameraConfiguration.setConfigValue("Hue", hue.ToString());
+            CameraConfiguration.setConfigValue("Gain", gain.ToString());
+            CameraConfiguration.setConfigValue("Exposure", exposure.ToString());
+        } 
     }
 }

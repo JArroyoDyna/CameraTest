@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CameraTestSpace"
         mc:Ignorable="d" 
-        Title="MainWindow" Height="834.454" Width="1220">
+        Title="MainWindow" Height="834.454" Width="1220" Initialized="Window_Initialized">
 
 
     <Grid Margin="0,0,-433,0">
@@ -15,7 +15,7 @@
                     HorizontalAlignment="Left">
 
             <!--// Main Menu //-->
-            <DockPanel VerticalAlignment="Center" Margin="10">
+            <DockPanel VerticalAlignment="Center" Margin="10" >
                 <Label DockPanel.Dock="Left" FontWeight="Bold">Brightness:</Label>
                 <TextBox Text="{Binding ElementName=slBrightness, Path=Value, UpdateSourceTrigger=PropertyChanged}" DockPanel.Dock="Right" TextAlignment="Right" Width="40" />
                 <Slider Maximum="50" TickPlacement="BottomRight" TickFrequency="1" IsSnapToTickEnabled="True" 
@@ -101,7 +101,13 @@
                 <TextBox Text="{Binding ElementName=slGain, Path=Value, UpdateSourceTrigger=PropertyChanged}" DockPanel.Dock="Right" TextAlignment="Right" Width="40" />
                 <Slider Maximum="500" TickPlacement="BottomRight" TickFrequency="1" IsSnapToTickEnabled="True" Name="slGain" ValueChanged="slGain_ValueChanged" Minimum="-500" Value="100" />
             </DockPanel>
-            
+
+            <DockPanel VerticalAlignment="Center" Margin="10">
+                <Label DockPanel.Dock="Left" FontWeight="Bold" >Exposure:</Label>
+                <TextBox Text="{Binding ElementName=slExposure, Path=Value, UpdateSourceTrigger=PropertyChanged}" DockPanel.Dock="Right" TextAlignment="Right" Width="40" />
+                <Slider Maximum="500" TickPlacement="BottomRight" TickFrequency="1" IsSnapToTickEnabled="True" Name="slExposure" ValueChanged="slExposure_ValueChanged" Minimum="-500" Value="100" />
+            </DockPanel>
+
         </StackPanel>
 
         <Image x:Name="Display" Height="450" Margin="436,192,500,161.2"/>
