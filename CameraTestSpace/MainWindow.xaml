@@ -96,7 +96,12 @@
                 <TextBox Text="{Binding ElementName=slHue, Path=Value, UpdateSourceTrigger=PropertyChanged}" DockPanel.Dock="Right" TextAlignment="Right" Width="40" />
                 <Slider Maximum="500" TickPlacement="BottomRight" TickFrequency="1" IsSnapToTickEnabled="True" Name="slHue" ValueChanged="slHue_ValueChanged" Minimum="-500" Value="100" />
             </DockPanel>
-        
+            <DockPanel VerticalAlignment="Center" Margin="10">
+                <Label DockPanel.Dock="Left" FontWeight="Bold" >Gain:</Label>
+                <TextBox Text="{Binding ElementName=slGain, Path=Value, UpdateSourceTrigger=PropertyChanged}" DockPanel.Dock="Right" TextAlignment="Right" Width="40" />
+                <Slider Maximum="500" TickPlacement="BottomRight" TickFrequency="1" IsSnapToTickEnabled="True" Name="slGain" ValueChanged="slGain_ValueChanged" Minimum="-500" Value="100" />
+            </DockPanel>
+            
         </StackPanel>
 
         <Image x:Name="Display" Height="450" Margin="436,192,500,161.2"/>

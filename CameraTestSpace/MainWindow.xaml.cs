@@ -118,7 +118,7 @@ namespace CameraTestSpace
         private void slSaturation_ValueChanged(object sender, EventArgs e) { try { webCam.saturation = slSaturation.Value; } catch (Exception) { throw; } }
         private void slHue_ValueChanged(object sender, EventArgs e) { try { webCam.hue = slHue.Value; } catch (Exception) { throw; } }       
         private void slFocus_ValueChanged(object sender, EventArgs e) { try { webCam.focus = slFocus.Value; } catch (Exception) { throw; } }
-
-
+        private void slGain_ValueChanged(object sender, EventArgs e) { try { webCam.gain = slGain.Value; } catch (Exception) { throw; } }
+        
     }
 }
