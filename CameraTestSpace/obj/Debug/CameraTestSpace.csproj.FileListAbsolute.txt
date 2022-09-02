@@ -102,6 +102,10 @@ C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraTestSpa
 C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraTestSpace\obj\Debug\CameraTestSpace.pdb
 C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraTestSpace\obj\Debug\SettingsWindow.g.cs
 C:\Users\ja104459\Documents\Visual Studio 2019\projects\For Jesús\CameraTestSpace\obj\Debug\SettingsWindow.baml
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraTestSpace\bin\Debug\x86\msvcp140_1.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraTestSpace\bin\Debug\x86\msvcp140_2.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraTestSpace\bin\Debug\x86\msvcp140_codecvt_ids.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraTestSpace\bin\Debug\x86\vcruntime140.dll
 C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraTestSpace\bin\Debug\x64\concrt140.dll
 C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraTestSpace\bin\Debug\x64\cvextern.dll
 C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraTestSpace\bin\Debug\x64\msvcp140.dll
@@ -114,11 +118,7 @@ C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraTestSpace\b
 C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraTestSpace\bin\Debug\x86\concrt140.dll
 C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraTestSpace\bin\Debug\x86\cvextern.dll
 C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraTestSpace\bin\Debug\x86\msvcp140.dll
-C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraTestSpace\bin\Debug\x86\msvcp140_1.dll
-C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraTestSpace\bin\Debug\x86\msvcp140_2.dll
-C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraTestSpace\bin\Debug\x86\msvcp140_codecvt_ids.dll
 C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraTestSpace\bin\Debug\x86\opencv_videoio_ffmpeg420.dll
-C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraTestSpace\bin\Debug\x86\vcruntime140.dll
 C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraTestSpace\bin\Debug\CameraTestSpace.exe.config
 C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraTestSpace\bin\Debug\CameraTestSpace.exe
 C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraTestSpace\bin\Debug\CameraTestSpace.pdb
