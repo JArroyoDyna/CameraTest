@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ZEpr7Sqrk2EtLi+5TkJRwT852fjh2dBVBM1+YMx5JwrGvZ4WWOAa3wT8LaGTqRhHE8uV4Hx2kmNzo0Q+zJ32gg==",
+  "dgSpecHash": "xVaAvX2OSU+wqdBSJ72wggZigpeLyHsEsRqq3SWIMaVCBH960E/gvuaTa3aO+m2ohKcJH0ysJ77+jEf865QZQA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ja104459\\Documents\\Visual Studio 2019\\projects\\camera\\CameraSystem\\CameraSystem.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\ja104459\\.nuget\\packages\\aforge.video.directshow\\2.2.5\\aforge.video.directshow.2.2.5.nupkg.sha512",
     "C:\\Users\\ja104459\\.nuget\\packages\\emgu.cv\\4.2.0.3662\\emgu.cv.4.2.0.3662.nupkg.sha512",
     "C:\\Users\\ja104459\\.nuget\\packages\\emgu.cv.runtime.windows\\4.2.0.3662\\emgu.cv.runtime.windows.4.2.0.3662.nupkg.sha512",
+    "C:\\Users\\ja104459\\.nuget\\packages\\log4net\\2.0.15\\log4net.2.0.15.nupkg.sha512",
     "C:\\Users\\ja104459\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
     "C:\\Users\\ja104459\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
     "C:\\Users\\ja104459\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512",

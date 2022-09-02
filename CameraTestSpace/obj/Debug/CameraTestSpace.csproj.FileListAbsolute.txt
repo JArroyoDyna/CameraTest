@@ -153,3 +153,5 @@ C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraTestSpace\o
 C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraTestSpace\obj\Debug\CameraTestSpace.csproj.CopyComplete
 C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraTestSpace\obj\Debug\CameraTestSpace.exe
 C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraTestSpace\obj\Debug\CameraTestSpace.pdb
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraTestSpace\bin\Debug\log4net.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraTestSpace\bin\Debug\log4net.xml

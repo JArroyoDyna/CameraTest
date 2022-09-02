@@ -29,8 +29,13 @@ namespace DynaTouch.CameraSystem
             string exePath = cAssembly.ManifestModule.Assembly.Location;
             try
             {
+                var myValue = "0";
                 Configuration config = ConfigurationManager.OpenExeConfiguration(exePath);
-                return config.AppSettings.Settings[setting].Value;
+                if (config.AppSettings.Settings[setting] != null)
+                {
+                    myValue = config.AppSettings.Settings[setting].Value;
+                }
+                return myValue;
             }
             catch (Exception ex)
             {

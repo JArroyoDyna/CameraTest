@@ -60,6 +60,19 @@
           "build/Emgu.CV.runtime.windows.targets": {}
         }
       },
+      "log4net/2.0.15": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Configuration",
+          "System.Web"
+        ],
+        "compile": {
+          "lib/net45/log4net.dll": {}
+        },
+        "runtime": {
+          "lib/net45/log4net.dll": {}
+        }
+      },
       "System.Configuration.ConfigurationManager/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -292,6 +305,19 @@
           "build/Emgu.CV.runtime.windows.targets": {}
         }
       },
+      "log4net/2.0.15": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Configuration",
+          "System.Web"
+        ],
+        "compile": {
+          "lib/net45/log4net.dll": {}
+        },
+        "runtime": {
+          "lib/net45/log4net.dll": {}
+        }
+      },
       "System.Configuration.ConfigurationManager/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -500,6 +526,19 @@
           "build/Emgu.CV.runtime.windows.targets": {}
         }
       },
+      "log4net/2.0.15": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Configuration",
+          "System.Web"
+        ],
+        "compile": {
+          "lib/net45/log4net.dll": {}
+        },
+        "runtime": {
+          "lib/net45/log4net.dll": {}
+        }
+      },
       "System.Configuration.ConfigurationManager/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -706,6 +745,19 @@
         },
         "build": {
           "build/Emgu.CV.runtime.windows.targets": {}
+        }
+      },
+      "log4net/2.0.15": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Configuration",
+          "System.Web"
+        ],
+        "compile": {
+          "lib/net45/log4net.dll": {}
+        },
+        "runtime": {
+          "lib/net45/log4net.dll": {}
         }
       },
       "System.Configuration.ConfigurationManager/6.0.0": {
@@ -944,6 +996,32 @@
         "icon.png",
         "lib/net461/Emgu.CV.UI.dll",
         "lib/net461/Emgu.CV.UI.xml"
+      ]
+    },
+    "log4net/2.0.15": {
+      "sha512": "GahnO9ZgFka+xYcFwAfIFjW+k86P2nxFoaEpH6t3v4hiGj7tv2ksVZphxCVIHmJxoySS0HeU3dgCW+bSCcfD0A==",
+      "type": "package",
+      "path": "log4net/2.0.15",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net20/log4net.dll",
+        "lib/net20/log4net.xml",
+        "lib/net35/log4net.dll",
+        "lib/net35/log4net.xml",
+        "lib/net40-client/log4net.dll",
+        "lib/net40-client/log4net.xml",
+        "lib/net40/log4net.dll",
+        "lib/net40/log4net.xml",
+        "lib/net45/log4net.dll",
+        "lib/net45/log4net.xml",
+        "lib/netstandard1.3/log4net.dll",
+        "lib/netstandard1.3/log4net.xml",
+        "lib/netstandard2.0/log4net.dll",
+        "lib/netstandard2.0/log4net.xml",
+        "log4net.2.0.15.nupkg.sha512",
+        "log4net.nuspec",
+        "package-icon.png"
       ]
     },
     "System.Configuration.ConfigurationManager/6.0.0": {
@@ -1280,7 +1358,8 @@
       "System.Configuration.ConfigurationManager >= 6.0.0",
       "System.Drawing.Common >= 6.0.0",
       "System.Drawing.Primitives >= 4.3.0",
-      "System.Runtime >= 4.3.1"
+      "System.Runtime >= 4.3.1",
+      "log4net >= 2.0.15"
     ]
   },
   "packageFolders": {
@@ -1351,6 +1430,10 @@
           "System.Runtime": {
             "target": "Package",
             "version": "[4.3.1, )"
+          },
+          "log4net": {
+            "target": "Package",
+            "version": "[2.0.15, )"
           }
         }
       }

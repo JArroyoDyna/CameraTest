@@ -371,3 +371,5 @@ C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraSystem\obj\
 C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraSystem\obj\Debug\CameraSystem.csproj.CopyComplete
 C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraSystem\obj\Debug\CameraSystem.dll
 C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraSystem\obj\Debug\CameraSystem.pdb
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraSystem\obj\Debug\CameraSystem.csproj.AssemblyReference.cache
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraSystem\bin\Debug\log4net.dll
