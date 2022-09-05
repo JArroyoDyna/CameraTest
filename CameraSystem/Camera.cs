@@ -188,7 +188,284 @@ namespace DynaTouch.CameraSystem
                 log.Error(ex);
                 throw;
             }
+
+        }
+
+        public void SaveDefaultSetting(string name, double value)
+        {
+            try
+            {
+                capPropDefault = new CapPropData();
+                switch (name)
+                {
+                    case "Focus":
+                        capPropCurrent.Focus = webCam.GetCaptureProperty(Emgu.CV.CvEnum.CapProp.Focus);
+                        break;
+                    case "Brightness":
+                        capPropCurrent.Brightness = webCam.GetCaptureProperty(Emgu.CV.CvEnum.CapProp.Brightness); // Sets the Brightness property to the value passed to it
+                        break;
+                    case "Contrast":
+                        capPropCurrent.Contrast = webCam.GetCaptureProperty(Emgu.CV.CvEnum.CapProp.Contrast);
+                        break;
+                    case "Gamma":
+                        capPropCurrent.Gamma = webCam.GetCaptureProperty(Emgu.CV.CvEnum.CapProp.Gamma);
+                        break;
+                    case "Tilt":
+                        capPropCurrent.Tilt = webCam.GetCaptureProperty(Emgu.CV.CvEnum.CapProp.Tilt);
+                        break;
+                    case "Roll":
+                        capPropCurrent.Roll = webCam.GetCaptureProperty(Emgu.CV.CvEnum.CapProp.Roll);
+                        break;
+                    case "Pan":
+                        capPropCurrent.Pan = webCam.GetCaptureProperty(Emgu.CV.CvEnum.CapProp.Pan);
+                        break;
+                    case "Backlight":
+                        capPropCurrent.Backlight = webCam.GetCaptureProperty(Emgu.CV.CvEnum.CapProp.Backlight);
+                        break;
+                    case "Zoom":
+                        capPropCurrent.Zoom = webCam.GetCaptureProperty(Emgu.CV.CvEnum.CapProp.Zoom);
+                        break;
+                    case "Sharpness":
+                        capPropCurrent.Sharpness = webCam.GetCaptureProperty(Emgu.CV.CvEnum.CapProp.Sharpness);
+                        break;
+                    case "Saturation":
+                        capPropCurrent.Saturation = webCam.GetCaptureProperty(Emgu.CV.CvEnum.CapProp.Saturation);
+                        break;
+                    case "Hue":
+                        capPropCurrent.Hue = webCam.GetCaptureProperty(Emgu.CV.CvEnum.CapProp.Hue);
+                        break;
+                    case "Gain":
+                        capPropCurrent.Gain = webCam.GetCaptureProperty(Emgu.CV.CvEnum.CapProp.Gain);
+                        break;
+                    case "Exposure":
+                        capPropCurrent.Exposure = webCam.GetCaptureProperty(Emgu.CV.CvEnum.CapProp.Exposure);
+                        break;
+                    case "Temperature":
+                        capPropCurrent.Temperature = webCam.GetCaptureProperty(Emgu.CV.CvEnum.CapProp.Temperature);
+                        break;
+                    default:
+                        break;
+                }
+                 
+                 // Sets the Brightness property to the value passed to it 
+            }
+            catch (Exception ex)
+            {
+                log.Error(ex);
+                throw;
+            }
             
+        }
+
+        public double GetDefaultSetting(string name)
+        {
+            try
+            {
+                double myVal = 0;
+                switch (name)
+                {
+                    case "Focus":
+                        myVal = capPropDefault.Focus;
+                        break;
+                    case "Brightness":
+                        myVal = capPropDefault.Brightness; // Sets the Brightness property to the value passed to it
+                        break;
+                    case "Contrast":
+                        myVal = capPropDefault.Contrast;
+                        break;
+                    case "Gamma":
+                        myVal = capPropDefault.Gamma;
+                        break;
+                    case "Tilt":
+                        myVal = capPropDefault.Tilt;
+                        break;
+                    case "Roll":
+                        myVal = capPropDefault.Roll;
+                        break;
+                    case "Pan":
+                        myVal = capPropDefault.Pan;
+                        break;
+                    case "Backlight":
+                        myVal = capPropDefault.Backlight;
+                        break;
+                    case "Zoom":
+                        myVal = capPropDefault.Zoom;
+                        break;
+                    case "Sharpness":
+                        myVal = capPropDefault.Sharpness;
+                        break;
+                    case "Saturation":
+                        myVal = capPropDefault.Saturation;
+                        break;
+                    case "Hue":
+                        myVal = capPropDefault.Hue;
+                        break;
+                    case "Gain":
+                        myVal = capPropDefault.Gain;
+                        break;
+                    case "Exposure":
+                        myVal = capPropDefault.Exposure;
+                        break;
+                    case "Temperature":
+                        myVal = capPropDefault.Temperature;
+                        break;
+                    default:
+                        break;
+                }
+                return myVal;
+                // Sets the Brightness property to the value passed to it 
+            }
+            catch (Exception ex)
+            {
+                log.Error(ex);
+                throw;
+            }
+
+        }
+
+        public double GetCurrentSetting(string name)
+        {
+            try
+            {
+                double myVal = 0;
+                switch (name)
+                {
+                    case "Focus":
+                        myVal = webCam.GetCaptureProperty(Emgu.CV.CvEnum.CapProp.Focus);
+                        break;
+                    case "Brightness":
+                        myVal = webCam.GetCaptureProperty(Emgu.CV.CvEnum.CapProp.Brightness); // Sets the Brightness property to the value passed to it
+                        break;
+                    case "Contrast":
+                        myVal = webCam.GetCaptureProperty(Emgu.CV.CvEnum.CapProp.Contrast);
+                        break;
+                    case "Gamma":
+                        myVal = webCam.GetCaptureProperty(Emgu.CV.CvEnum.CapProp.Gamma);
+                        break;
+                    case "Tilt":
+                        myVal = webCam.GetCaptureProperty(Emgu.CV.CvEnum.CapProp.Tilt);
+                        break;
+                    case "Roll":
+                        myVal = webCam.GetCaptureProperty(Emgu.CV.CvEnum.CapProp.Roll);
+                        break;
+                    case "Pan":
+                        myVal = webCam.GetCaptureProperty(Emgu.CV.CvEnum.CapProp.Pan);
+                        break;
+                    case "Backlight":
+                        myVal = webCam.GetCaptureProperty(Emgu.CV.CvEnum.CapProp.Backlight);
+                        break;
+                    case "Zoom":
+                        myVal = webCam.GetCaptureProperty(Emgu.CV.CvEnum.CapProp.Zoom);
+                        break;
+                    case "Sharpness":
+                        myVal = webCam.GetCaptureProperty(Emgu.CV.CvEnum.CapProp.Sharpness);
+                        break;
+                    case "Saturation":
+                        myVal = webCam.GetCaptureProperty(Emgu.CV.CvEnum.CapProp.Saturation);
+                        break;
+                    case "Hue":
+                        myVal = webCam.GetCaptureProperty(Emgu.CV.CvEnum.CapProp.Hue);
+                        break;
+                    case "Gain":
+                        myVal = webCam.GetCaptureProperty(Emgu.CV.CvEnum.CapProp.Gain);
+                        break;
+                    case "Exposure":
+                        myVal = webCam.GetCaptureProperty(Emgu.CV.CvEnum.CapProp.Exposure);
+                        break;
+                    case "Temperature":
+                        myVal = webCam.GetCaptureProperty(Emgu.CV.CvEnum.CapProp.Temperature);
+                        break;
+                    default:
+                        break;
+                }
+                return myVal;
+                // Sets the Brightness property to the value passed to it 
+            }
+            catch (Exception ex)
+            {
+                log.Error(ex);
+                throw;
+            }
+
+        }
+
+        public async Task SetSettingValue(string name,double value)
+        {
+            try
+            {
+                switch (name)
+                {
+                    case "Focus":
+                        webCam.SetCaptureProperty(Emgu.CV.CvEnum.CapProp.Focus, value);// Sets the Focus property to the Value to the value passed to it
+                        capPropCurrent.Focus = value;
+                        break;
+                    case "Brightness":
+                        webCam.SetCaptureProperty(Emgu.CV.CvEnum.CapProp.Brightness, value); // Sets the Brightness property to the value passed to it
+                        capPropCurrent.Brightness = value;
+                        break;
+                    case "Contrast":
+                        webCam.SetCaptureProperty(Emgu.CV.CvEnum.CapProp.Contrast, value);
+                        capPropCurrent.Contrast = value;
+                        break;
+                    case "Gamma":
+                        webCam.SetCaptureProperty(Emgu.CV.CvEnum.CapProp.Gamma, value);
+                        capPropCurrent.Gamma = value;
+                        break;
+                    case "Tilt":
+                        webCam.SetCaptureProperty(Emgu.CV.CvEnum.CapProp.Tilt, value);
+                        capPropCurrent.Tilt = value;
+                        break;
+                    case "Roll":
+                        webCam.SetCaptureProperty(Emgu.CV.CvEnum.CapProp.Roll, value);
+                        capPropCurrent.Roll = value;
+                        break;
+                    case "Pan":
+                        webCam.SetCaptureProperty(Emgu.CV.CvEnum.CapProp.Pan, value);
+                        capPropCurrent.Pan = value;
+                        break;
+                    case "Backlight":
+                        webCam.SetCaptureProperty(Emgu.CV.CvEnum.CapProp.Backlight, value);
+                        capPropCurrent.Backlight = value;
+                        break;
+                    case "Zoom":
+                        webCam.SetCaptureProperty(Emgu.CV.CvEnum.CapProp.Zoom, value);
+                        capPropCurrent.Zoom = value;
+                        break;
+                    case "Sharpness":
+                        webCam.SetCaptureProperty(Emgu.CV.CvEnum.CapProp.Sharpness, value);
+                        capPropCurrent.Sharpness = value;
+                        break;
+                    case "Saturation":
+                        webCam.SetCaptureProperty(Emgu.CV.CvEnum.CapProp.Saturation, value);
+                        capPropCurrent.Saturation = value;
+                        break;
+                    case "Hue":
+                        webCam.SetCaptureProperty(Emgu.CV.CvEnum.CapProp.Hue, value);
+                        capPropCurrent.Hue = value;
+                        break;
+                    case "Gain":
+                        webCam.SetCaptureProperty(Emgu.CV.CvEnum.CapProp.Gain, value);
+                        capPropCurrent.Gain = value;
+                        break;
+                    case "Exposure":
+                        webCam.SetCaptureProperty(Emgu.CV.CvEnum.CapProp.Exposure, value);
+                        capPropCurrent.Exposure = value;
+                        break;
+                    case "Temperature":
+                        webCam.SetCaptureProperty(Emgu.CV.CvEnum.CapProp.Temperature, value);
+                        capPropCurrent.Temperature = value;
+                        break;
+                    default:
+                        break;
+                }
+                SaveDefaultSetting(name, value);
+            }
+            catch (Exception ex)
+            {
+                log.Error($"Error message {ex.Message} InnerException Message {ex.InnerException.Message}");
+                throw;
+            }
+
         }
 
         public async Task SetSettingsValues()
@@ -218,6 +495,7 @@ namespace DynaTouch.CameraSystem
             }
 
         }
+
         public void RestoreSettingsValues()
         {
             try

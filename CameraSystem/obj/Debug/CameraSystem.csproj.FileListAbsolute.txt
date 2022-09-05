@@ -348,6 +348,7 @@ C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraSystem\bin\
 C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraSystem\bin\Debug\AForge.Video.DirectShow.dll
 C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraSystem\bin\Debug\Emgu.CV.World.NetStandard.dll
 C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraSystem\bin\Debug\Emgu.CV.UI.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraSystem\bin\Debug\log4net.dll
 C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
 C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraSystem\bin\Debug\System.Drawing.Common.dll
 C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraSystem\bin\Debug\System.Security.AccessControl.dll
@@ -367,9 +368,8 @@ C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraSystem\bin\
 C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraSystem\bin\Debug\tr\ZedGraph.resources.dll
 C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraSystem\bin\Debug\zh-cn\ZedGraph.resources.dll
 C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraSystem\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraSystem\obj\Debug\CameraSystem.csproj.AssemblyReference.cache
 C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraSystem\obj\Debug\CameraSystem.csproj.CoreCompileInputs.cache
 C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraSystem\obj\Debug\CameraSystem.csproj.CopyComplete
 C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraSystem\obj\Debug\CameraSystem.dll
 C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraSystem\obj\Debug\CameraSystem.pdb
-C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraSystem\obj\Debug\CameraSystem.csproj.AssemblyReference.cache
-C:\Users\ja104459\Documents\Visual Studio 2019\projects\camera\CameraSystem\bin\Debug\log4net.dll

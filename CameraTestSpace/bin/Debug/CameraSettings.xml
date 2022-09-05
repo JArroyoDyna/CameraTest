@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+	<SettingsItem name="Brightness" >
+		<Value>0</Value>
+		<Min>-50</Min>
+		<Max>50</Max>
+	</SettingsItem>
+
+	<SettingsItem name="Contrast">
+		<Value>10</Value>
+		<Min>-1</Min>
+		<Max>100</Max>
+	</SettingsItem>
+
+	<SettingsItem name="Focus">
+		<Value>1</Value>
+		<Min>-1</Min>
+		<Max>600</Max>
+	</SettingsItem>
+
+	<SettingsItem name="Gamma">
+		<Value>-1</Value>
+		<Min>-1</Min>
+		<Max>300</Max>
+	</SettingsItem>
+
+	<SettingsItem name="Tilt">
+		<Value>-10</Value>
+		<Min>-50</Min>
+		<Max>50</Max>
+	</SettingsItem>
+
+	<SettingsItem name="Roll">
+		<Value>-1</Value>
+		<Min>-100</Min>
+		<Max>100</Max>
+	</SettingsItem>
+
+	<SettingsItem name="Pan">
+		<Value>0</Value>
+		<Min>-1</Min>
+		<Max>30</Max>
+	</SettingsItem>
+
+	<SettingsItem name="Backlight">
+		<Value>-1</Value>
+		<Min>0</Min>
+		<Max>50</Max>
+	</SettingsItem>
+
+	<SettingsItem name="Zoom">
+		<Value>10</Value>
+		<Min>0</Min>
+		<Max>150</Max>
+	</SettingsItem>
+
+
+	<SettingsItem name="Temperature">
+		<Value>0</Value>
+		<Min>0</Min>
+		<Max>100</Max>
+	</SettingsItem>
+
+	<SettingsItem name="Sharpness">
+		<Value>0</Value>
+		<Min>0</Min>
+		<Max>2</Max>
+	</SettingsItem>
+
+	<SettingsItem name="Saturation">
+		<Value>75</Value>
+		<Min>0</Min>
+		<Max>100</Max>
+	</SettingsItem>
+
+	<SettingsItem name="Hue">
+		<Value>-42</Value>
+		<Min>-50</Min>
+		<Max>50</Max>
+	</SettingsItem>
+
+
+	<SettingsItem name="Gain">
+		<Value>1</Value>
+		<Min>0</Min>
+		<Max>10</Max>
+	</SettingsItem>
+
+	<SettingsItem name="Exposure">
+		<Value>-4</Value>
+		<Min>-15</Min>
+		<Max>5</Max>
+	</SettingsItem>
+
+</Settings>
