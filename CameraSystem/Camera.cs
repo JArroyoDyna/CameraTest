@@ -6,10 +6,9 @@ using Emgu.CV.Structure;
 using log4net;
 using System;
 using System.Collections.Generic;
- 
 using System.Drawing;
 using System.IO;
-using System.Linq; 
+using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Threading;
@@ -76,9 +75,7 @@ namespace DynaTouch.CameraSystem
 
         public CapPropData capPropDefault;
         public CapPropData capPropCurrent;
-
-
-        //public int focalLength;
+         
 
         public Camera()
         { 
@@ -117,10 +114,10 @@ namespace DynaTouch.CameraSystem
         private void WebCamBase_ImageGrabbed(object sender, EventArgs e)
         {
             #region CapturePropertiesForBaseCamera             
-            //SetCameraSize(450, 800);
+            /*SetCameraSize(450, 800);*/
             #endregion 
 
-            // Any Changes to captures properties have to be made before webCam.Retrive Is Called
+            /* Any Changes to captures properties have to be made before webCam.Retrive Is Called*/
             webCam.Retrieve(frameCapture);
             if (frameCapture != null)
             {
@@ -136,7 +133,7 @@ namespace DynaTouch.CameraSystem
                     {
 
                         case 0:
-                            //nothing to do, webcam is set correctly
+                            /*nothing to do, webcam is set correctly*/
                             break;
                         case 90:
                             bitmapImage.RotateFlip(RotateFlipType.Rotate270FlipNone);
@@ -155,8 +152,8 @@ namespace DynaTouch.CameraSystem
 
                     imageFrame = bitmapImage.ToImage<Bgr, byte>();
                     displayImage = bitmapImage;
-                    //Random rand = new Random();
-                    //bitmapImage.Save(rand.Next(1, 90000).ToString() + ".png");
+                    /*Random rand = new Random();*/
+                    /*bitmapImage.Save(rand.Next(1, 90000).ToString() + ".png");*/
                 }
             }
 
@@ -167,8 +164,8 @@ namespace DynaTouch.CameraSystem
             try
             {
                 capPropDefault = new CapPropData();
-                capPropDefault.Focus = webCam.GetCaptureProperty(Emgu.CV.CvEnum.CapProp.Focus);// Sets the Focus property to the Value to the value passed to it
-                capPropDefault.Brightness = webCam.GetCaptureProperty(Emgu.CV.CvEnum.CapProp.Brightness); // Sets the Brightness property to the value passed to it
+                capPropDefault.Focus = webCam.GetCaptureProperty(Emgu.CV.CvEnum.CapProp.Focus); 
+                capPropDefault.Brightness = webCam.GetCaptureProperty(Emgu.CV.CvEnum.CapProp.Brightness); 
                 capPropDefault.Contrast = webCam.GetCaptureProperty(Emgu.CV.CvEnum.CapProp.Contrast);
                 capPropDefault.Gamma = webCam.GetCaptureProperty(Emgu.CV.CvEnum.CapProp.Gamma);
                 capPropDefault.Tilt = webCam.GetCaptureProperty(Emgu.CV.CvEnum.CapProp.Tilt);
@@ -202,7 +199,7 @@ namespace DynaTouch.CameraSystem
                         capPropCurrent.Focus = webCam.GetCaptureProperty(Emgu.CV.CvEnum.CapProp.Focus);
                         break;
                     case "Brightness":
-                        capPropCurrent.Brightness = webCam.GetCaptureProperty(Emgu.CV.CvEnum.CapProp.Brightness); // Sets the Brightness property to the value passed to it
+                        capPropCurrent.Brightness = webCam.GetCaptureProperty(Emgu.CV.CvEnum.CapProp.Brightness); 
                         break;
                     case "Contrast":
                         capPropCurrent.Contrast = webCam.GetCaptureProperty(Emgu.CV.CvEnum.CapProp.Contrast);
@@ -396,11 +393,11 @@ namespace DynaTouch.CameraSystem
                 switch (name)
                 {
                     case "Focus":
-                        webCam.SetCaptureProperty(Emgu.CV.CvEnum.CapProp.Focus, value);// Sets the Focus property to the Value to the value passed to it
+                        webCam.SetCaptureProperty(Emgu.CV.CvEnum.CapProp.Focus, value); 
                         capPropCurrent.Focus = value;
                         break;
                     case "Brightness":
-                        webCam.SetCaptureProperty(Emgu.CV.CvEnum.CapProp.Brightness, value); // Sets the Brightness property to the value passed to it
+                        webCam.SetCaptureProperty(Emgu.CV.CvEnum.CapProp.Brightness, value);  
                         capPropCurrent.Brightness = value;
                         break;
                     case "Contrast":
@@ -472,8 +469,8 @@ namespace DynaTouch.CameraSystem
         {
             try
             {
-                webCam.SetCaptureProperty(Emgu.CV.CvEnum.CapProp.Focus, capPropCurrent.Focus);// Sets the Focus property to the Value to the value passed to it
-                webCam.SetCaptureProperty(Emgu.CV.CvEnum.CapProp.Brightness, capPropCurrent.Brightness); // Sets the Brightness property to the value passed to it
+                webCam.SetCaptureProperty(Emgu.CV.CvEnum.CapProp.Focus, capPropCurrent.Focus); 
+                webCam.SetCaptureProperty(Emgu.CV.CvEnum.CapProp.Brightness, capPropCurrent.Brightness); 
                 webCam.SetCaptureProperty(Emgu.CV.CvEnum.CapProp.Contrast, capPropCurrent.Contrast);
                 webCam.SetCaptureProperty(Emgu.CV.CvEnum.CapProp.Gamma, capPropCurrent.Gamma);
                 webCam.SetCaptureProperty(Emgu.CV.CvEnum.CapProp.Tilt, capPropCurrent.Tilt);
@@ -500,8 +497,8 @@ namespace DynaTouch.CameraSystem
         {
             try
             {
-                webCam.SetCaptureProperty(Emgu.CV.CvEnum.CapProp.Focus, capPropDefault.Focus);// Sets the Focus property to the Value to the value passed to it
-                webCam.SetCaptureProperty(Emgu.CV.CvEnum.CapProp.Brightness, capPropDefault.Brightness); // Sets the Brightness property to the value passed to it
+                webCam.SetCaptureProperty(Emgu.CV.CvEnum.CapProp.Focus, capPropDefault.Focus); 
+                webCam.SetCaptureProperty(Emgu.CV.CvEnum.CapProp.Brightness, capPropDefault.Brightness);  
                 webCam.SetCaptureProperty(Emgu.CV.CvEnum.CapProp.Contrast, capPropDefault.Contrast);
                 webCam.SetCaptureProperty(Emgu.CV.CvEnum.CapProp.Gamma, capPropDefault.Gamma);
                 webCam.SetCaptureProperty(Emgu.CV.CvEnum.CapProp.Tilt, capPropDefault.Tilt);
@@ -525,7 +522,7 @@ namespace DynaTouch.CameraSystem
 
         public void WebCamFace_ImageGrabbed(object sender, EventArgs e)
         {
-            //webCam.SetCaptureProperty(Emgu.CV.CvEnum.CapProp.Focus, 900);
+            /*webCam.SetCaptureProperty(Emgu.CV.CvEnum.CapProp.Focus, 900);*/
  
             webCam.Retrieve(frameCapture);
 
@@ -545,7 +542,7 @@ namespace DynaTouch.CameraSystem
                     {
 
                         case 0:
-                            //nothing to do, webcam is set correctly
+                            /*nothing to do, webcam is set correctly*/
                             break;
                         case 90:
                             bitmapImage.RotateFlip(RotateFlipType.Rotate270FlipNone);
@@ -597,10 +594,12 @@ namespace DynaTouch.CameraSystem
 
 
 
-                    //imageFrame._EqualizeHist();
+                    /*
+                    imageFrame._EqualizeHist();
+                    var test= webCam.GetCaptureProperty(Emgu.CV.CvEnum.CapProp.Focus);
+                    imageFrame.Draw(test.ToString(),new Point(100,imageFrame.Height),Emgu.CV.CvEnum.FontFace.HersheyPlain,16,new Bgr(200,0,0));
+                    */
 
-                    //var test= webCam.GetCaptureProperty(Emgu.CV.CvEnum.CapProp.Focus);
-                    //imageFrame.Draw(test.ToString(),new Point(100,imageFrame.Height),Emgu.CV.CvEnum.FontFace.HersheyPlain,16,new Bgr(200,0,0));
                     displayImage = imageFrame.ToBitmap();
                     recognitionFrame = frameCapture;
 
@@ -648,8 +647,7 @@ namespace DynaTouch.CameraSystem
             try
             {
                 frameCapture = new Mat();
-                webCam.ImageGrabbed += WebCamBase_ImageGrabbed;
-
+                webCam.ImageGrabbed += WebCamBase_ImageGrabbed; 
             }
             catch (Exception ex)
             {
@@ -674,7 +672,7 @@ namespace DynaTouch.CameraSystem
                     {
 
                         case 0:
-                            //nothing to do, webcam is set correctly
+                            /*nothing to do, webcam is set correctly*/
                             break;
                         case 90:
                             bitmapImage.RotateFlip(RotateFlipType.Rotate270FlipNone);
@@ -697,9 +695,9 @@ namespace DynaTouch.CameraSystem
                 if (imageFrame != null)
                 {
                     var bitmapImage = imageFrame.ToBitmap();
-                    //var b2 = imageFrame.ToJpegData();
+                    /*var b2 = imageFrame.ToJpegData();*/
                     string captureFolder = CreatePaymentImageCaptureFolder();
-                    //public void Save(string filename, ImageCodecInfo encoder, EncoderParameters encoderParams);
+                    /*public void Save(string filename, ImageCodecInfo encoder, EncoderParameters encoderParams);*/
 
                     System.Drawing.Imaging.ImageCodecInfo myImageCodecInfo;
                     System.Drawing.Imaging.Encoder myEncoder;
@@ -713,7 +711,6 @@ namespace DynaTouch.CameraSystem
                     myEncoderParameter = new System.Drawing.Imaging.EncoderParameter(myEncoder, 25L);
                     myEncoderParameters.Param[0] = myEncoderParameter;
 
-                    //bitmapImage.Save(captureFolder +"\\" + PayUtilityNowKioskUser.SessionGuid.ToString() + ".png", System.Drawing.Imaging.ImageFormat.Png);
                     bitmapImage.Save(captureFolder + "\\" + transactionguid + ".png", myImageCodecInfo, myEncoderParameters);
 
                     return true;
@@ -753,15 +750,11 @@ namespace DynaTouch.CameraSystem
         #region VideoCapture
         void VideoStart()
         {
-
-
             webCam.Start();
             if (videoWriter != null)
             {
                 videoWriter.Dispose();
             }
-
-
         }
         public async Task VideoStop()
         {
@@ -827,7 +820,6 @@ namespace DynaTouch.CameraSystem
                     }
 
                 }
-
             }
             catch (Exception ex)
             {
@@ -868,7 +860,7 @@ namespace DynaTouch.CameraSystem
 
                 try
                 {
-                    //error is being thrown here, from the logs
+                    /*error is being thrown here, from the logs*/
 
                     if (imageFrame.Height != 0)
                     {
@@ -878,7 +870,7 @@ namespace DynaTouch.CameraSystem
                         {
 
                             case 0:
-                                //nothing to do, webcam is set correctly
+                                /*nothing to do, webcam is set correctly*/
                                 break;
                             case 90:
                                 bitmapImage.RotateFlip(RotateFlipType.Rotate270FlipNone);
@@ -991,8 +983,7 @@ namespace DynaTouch.CameraSystem
                     }
                     catch (Exception ex)
                     {
-                        hasSaltDir = false;
-                        //throw;
+                        hasSaltDir = false; 
                     }
 
                 }
@@ -1047,7 +1038,8 @@ namespace DynaTouch.CameraSystem
                             var savePath = "FacialData\\SaltImages\\Rejected\\" + holder[i].Split('\\')[1];
                             loadedImage.Save(savePath);
                             File.Delete(holder[i]);
-                            //File.Copy(saltDirectory + "/" + holder[i].Split('\\')[1], saltDirectory + " /Rejected/" + holder[i].Split('\\')[1]);
+                            /* File.Copy(saltDirectory + "/" + holder[i].Split('\\')[1], saltDirectory + " /Rejected/" + holder[i].Split('\\')[1]);
+                             */
                         }
 
 
@@ -1097,12 +1089,10 @@ namespace DynaTouch.CameraSystem
 
                     try
                     {
-                        //added per Ben 10282020
+                        /*added per Ben 10282020*/
 
                         if (imageFrame.Height != 0)
                         {
-
-
 
                             var bitmapImage = imageFrame.ToBitmap();
                             switch (camOrientation)
@@ -1127,7 +1117,7 @@ namespace DynaTouch.CameraSystem
                             }
                             imageFrame = bitmapImage.ToImage<Gray, byte>();
                         }
-                        //end added per Ben 10282020
+                        /*end added per Ben 10282020*/
                     }
                     catch (Exception ex)
                     { 
@@ -1164,9 +1154,10 @@ namespace DynaTouch.CameraSystem
                                 shortestdistance = distanceHolder;
                                 closestToCenter = face;
                             }
-                            //log = log + "\n" + tag.ToString() + ":" + distanceHolder.ToString();
-                            //tag--;
-
+                            /*
+                             log = log + "\n" + tag.ToString() + ":" + distanceHolder.ToString();
+                             tag--;
+                            */
                         }
 
                         var proccessedImage = imageFrame.Copy(closestToCenter).Resize(processedImageWidth, processedImageHeight, Emgu.CV.CvEnum.Inter.Cubic);
